@@ -1,0 +1,1 @@
+this jquery plugin providing diagonal lines is based upon the work of Mathieu 'P01' Henri drawing diag lines via css
